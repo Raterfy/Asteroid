@@ -21,7 +21,7 @@ This is a simple asteroid game built using Python and Pygame. The player control
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/asteroid-game.git
+git clone https://github.com/Raterfy/Asteroid.git
 cd asteroid-game
 
 2. Create a virtual environment and activate it:
